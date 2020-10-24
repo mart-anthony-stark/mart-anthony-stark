@@ -2,7 +2,7 @@
 ### Hi there 👋
  <p>Hello! My name is Mart Anthony Salazar - </p>
             <p></p>
-            <p>I am a first year student in Bachelor of Science</p>
+            <p>I am a first year student of Bachelor of Science</p>
             <p>in Information Technology.</p>
             <br><br>
             <p><i>"Imagination is more important than knowledge.</p>
