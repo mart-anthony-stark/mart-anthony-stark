@@ -2,13 +2,16 @@
 ### Hi there 👋
  <p>Hello! My name is Mart Anthony Salazar - </p>
             <p></p>
-            <p>I am a first year student of Bachelor of Science</p>
+            <p>I am a second year student of Bachelor of Science</p>
             <p>in Information Technology.</p>
             <br><br>
             <p><i>"Imagination is more important than knowledge.</p>
             <p>For knowledge is limited, whereas imagination embraces the</p>
             <p>entire world, stimulating progress, giving birth to evolution."</i></p>
-            <p>— Albert Einstein</p>   
+            <p>— Albert Einstein</p>
+            
+            - 🔭 I’m currently working on ...
+            - 🌱 I’m currently learning ...
 <!--
 **MartAnthonyStark404/MartAnthonyStark404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
