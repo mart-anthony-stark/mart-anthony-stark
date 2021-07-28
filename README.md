@@ -1,3 +1,4 @@
+<div center>
 ![](mart-stark.gif)
 ### Hi there 👋
  <p>Hello! My name is Mart Anthony Salazar - </p>
@@ -14,3 +15,4 @@
 - 🔭 I’m currently working on web development (node.js, express, vue.js, mongoDB)
 - 🌱 I’m currently learning Data Visualization using D3
 - 📫 How to reach me: 
+</div>
