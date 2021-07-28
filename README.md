@@ -1,5 +1,5 @@
-<div center>
 ![](mart-stark.gif)
+<div center>
 ### Hi there 👋
  <p>Hello! My name is Mart Anthony Salazar - </p>
             <p></p>
