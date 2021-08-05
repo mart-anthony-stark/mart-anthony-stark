@@ -1,9 +1,10 @@
+
 <p align="center">
 <img src="mart-stark.gif" width="100%" height="300px" align="center"/>
 
  <h3 align="center">Hi there👋</h3> 
  </p>
- <p align="center">Hello! My name is Mart Anthony Salazar - </p>
+ <p align="center">Hello! My name is Mart Anthony Salazar </p>
             <p></p>
             <p align="center">I am a second year student of Bachelor of Science</p>
             <p align="center">in Information Technology.</p>
