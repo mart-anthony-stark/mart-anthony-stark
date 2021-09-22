@@ -4,7 +4,7 @@
 
  <h3 align="center">Hi there👋</h3> 
  </p>
- <p align="center">Hello! My name is Mart Anthony Salazar </p>
+ <p align="center">My name is Mart Anthony Salazar </p>
             <p></p>
             <p align="center">I am a second year student of Bachelor of Science in Information Technology.</p>
             <br>
