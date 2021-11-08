@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="github header.png" width="70%" height="200px" align="center"/>
+<img src="github header.png" width="90%" align="center"/>
 
  <h3 align="center">Hi there👋</h3> 
  </p>
