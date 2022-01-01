@@ -6,9 +6,19 @@
  </p>
  <p align="center">My name is Mart Anthony Salazar </p>
             <p></p>
-            <p align="center">I am a second year student of Bachelor of Science in Information Technology.</p>
-            <br>
+            <p align="center">I am a second year student of Bachelor of Science in Information Technology at University of Camarines Norte</p>
+            <br />
+            
+### I'm currently learning on:
+ - Nuxt.js
+ - Next.js
+ - Typescript
+ - Angular
+ - Django
+ - Git
+
 <div align="center">
+<h3 align="center">My Current Skillset:</h3> 
  <img src="https://img.icons8.com/color/80/000000/vue-js.png"/>
  <img src="https://img.icons8.com/office/80/000000/react.png"/>
  <img src="https://img.icons8.com/nolan/80/react-native.png"/>
