@@ -9,7 +9,7 @@
             <p align="center">I am a second year student of Bachelor of Science in Information Technology at University of Camarines Norte</p>
             <br />
             
-### I'm currently learning on:
+### I'm currently learning these technologies:
  - Nuxt.js
  - Next.js
  - Typescript
