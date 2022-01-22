@@ -33,3 +33,4 @@
 <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=mart-anthony-stark&hide=contribs,prs,stars?count_private=true&show_icons=true&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mart-anthony-stark&theme=tokyonight&layout=compact" width="400px" />
 </p>
+<img src="https://activity-graph.herokuapp.com/graph?username=mart-anthony-stark&theme=rogue"/>
