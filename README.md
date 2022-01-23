@@ -8,7 +8,7 @@
             <p align="center">I am a second year student of Bachelor of Science in Information Technology at University of Camarines Norte</p>
             <br />
 
-<div align="center">
+<div>
 <h3 align="center">My Current Skillset:</h3> 
  
  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -23,11 +23,10 @@
  <img src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white" />
  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
- 
-</div>
  <br>
+ <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical"/>
+</div>
+ 
  <br>
 <p align="center">
 <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=mart-anthony-stark&hide=contribs,prs,stars?count_private=true&show_icons=true&theme=tokyonight" />
