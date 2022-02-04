@@ -15,7 +15,7 @@
  </div>
  
 <div>
-<h3 align="center">My Current Skillset:</h3> 
+<h3>My Current Skillset:</h3> 
  
  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -28,6 +28,7 @@
  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
  <img src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white" />
  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
  
  <br>
  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical"/>
@@ -41,4 +42,3 @@
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mart-anthony-stark&theme=dark" />
  </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=mart-anthony-stark&theme=rogue"/>
