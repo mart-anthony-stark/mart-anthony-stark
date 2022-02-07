@@ -3,10 +3,6 @@
 <img src="github header.png" width="90%" align="center"/>
 
  </p>
-
-
- <p align="center">I'm Mart Anthony Salazar </p>
-            <p></p>
             <p align="center">I am a second year student of Bachelor of Science in Information Technology at University of Camarines Norte</p>
             <br />
 <div style="display:flex;">
