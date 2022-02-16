@@ -13,7 +13,7 @@
  </div>
  
 <div>
-<h3>My Current Skillset:</h3> 
+<h3>Tools I work upon:</h3> 
  
  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
