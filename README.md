@@ -1,8 +1,12 @@
 
 <p align="center">
-<img src="github header.png" width="90%" align="center"/>
+<img src="github header.png" width="90%" align="center" />
+<h2>Contact: :phone:</h2>
 
+<a href="mailto: martsalazar0@gmail.com">
+<img src="https://img.shields.io/badge/-martsalazar0%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href=""><img src="https://img.shields.io/badge/mart_anthony_salazar-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
  </p>
+ <img src="https://readme-typing-svg.herokuapp.com?color=573C9D&lines=I'm+Mart+Anthony+Salazar;A+Web+Developer;An+Open+Source+Contributor;A+Learner" />
             <p align="center">I am a second year student of Bachelor of Science in Information Technology at University of Camarines Norte</p>
             <br />
 <div style="display:flex;">
