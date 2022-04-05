@@ -6,13 +6,16 @@
 <a href="mailto: martsalazar0@gmail.com">
 <img src="https://img.shields.io/badge/-martsalazar0%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href=""><img src="https://img.shields.io/badge/mart_anthony_salazar-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
  </p>
+ <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?color=573C9D&lines=I'm+Mart+Anthony+Salazar;A+Web+Developer;An+Open+Source+Contributor;A+Learner" />
-            <p align="center">I am a second year student of Bachelor of Science in Information Technology at University of Camarines Norte</p>
+            <p >I am a second year student of Bachelor of Science in Information Technology at University of Camarines Norte</p>
             <br />
-<div style="display:flex;">
-<img src="https://komarev.com/ghpvc/?username=mart-anthony-stark" />
- <a href="https://commits.top/philippines.html" target="_blank">
-<img src="https://en5jrhdk1emb4po.m.pipedream.net">
+ <div style="display:flex;">
+ <img src="https://komarev.com/ghpvc/?username=mart-anthony-stark" />
+  <a href="https://commits.top/philippines.html" target="_blank">
+ <img src="https://en5jrhdk1emb4po.m.pipedream.net">
+ </div>
+  
  </a>
  </div>
  
