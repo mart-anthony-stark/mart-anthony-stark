@@ -8,7 +8,7 @@
  </p>
  <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?color=573C9D&lines=I'm+Mart+Anthony+Salazar;A+Web+Developer;An+Open+Source+Contributor;A+Learner" />
-            <p >I am a second year student of Bachelor of Science in Information Technology at University of Camarines Norte</p>
+            <p >I am a second year student of Bachelor of Science in Information Technology at University of Camarines Norte. I am highly passionate about learning different programming languages, technologies, and skills that I can use for my future work and projects. I have an experience in freelancing particularly in web development and still learning things to grow in the tech industry.</p>
             <br />
  <div style="display:flex;">
  <img src="https://komarev.com/ghpvc/?username=mart-anthony-stark" />
