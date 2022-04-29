@@ -15,8 +15,8 @@
   <a href="https://commits.top/philippines.html" target="_blank">
  <img src="https://en5jrhdk1emb4po.m.pipedream.net">
  </div>
-  
  </a>
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=31icatuspwoj6v4drwyjvgayugfe&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile"/>
  </div>
  
 <div>
@@ -35,13 +35,13 @@
  <img src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white" />
  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
- 
  <br>
  
 </div>
  
  <br>
 <p align="center">
+ 
  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical"/>
 <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=mart-anthony-stark&?count_private=true&show_icons=true&theme=tokyonight" />
  <br/><br/>
