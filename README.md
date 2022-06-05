@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="github header.png" width="90%" align="center" />
+<img src="gh-banner.png" width="90%" align="center" />
 <h2>Contact: :phone:</h2>
 
 <a href="mailto: martsalazar0@gmail.com">
