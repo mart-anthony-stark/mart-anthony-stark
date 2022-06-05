@@ -16,7 +16,6 @@
  <img src="https://en5jrhdk1emb4po.m.pipedream.net">
  </div>
  </a>
- <img src="https://spotify-github-profile.vercel.app/api/view?uid=31icatuspwoj6v4drwyjvgayugfe&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile"/>
  </div>
  
 <div>
