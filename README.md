@@ -1,14 +1,12 @@
 
 <p align="center">
 <img src="gh-banner3.png" width="100%" align="center" />
-<h2>Contact: :phone:</h2>
-
 <a href="mailto: martsalazar0@gmail.com">
 <img src="https://img.shields.io/badge/-martsalazar0%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href=""><img src="https://img.shields.io/badge/mart_anthony_salazar-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
  </p>
  <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=573C9D&lines=I'm+Mart+Anthony+Salazar;A+Web+Developer;An+Open+Source+Contributor;A+Learner" />
-            <p >I am a second year student of Bachelor of Science in Information Technology at University of Camarines Norte. I am highly passionate about learning different programming languages, technologies, and skills that I can use for my future work and projects. I have an experience in freelancing particularly in web development and still learning things to grow in the tech industry.</p>
+ <img src="https://readme-typing-svg.herokuapp.com?color=2C658F&lines=I'm+Mart+Anthony+Salazar;A+Web+Developer;An+Open+Source+Contributor;A+Learner" />
+            <p >A second year student of Bachelor of Science in Information Technology at University of Camarines Norte. I am highly passionate about learning different programming languages, technologies, and skills that I can use for my future work and projects. I have an experience in freelancing particularly in web development and still learning things to grow in the tech industry.</p>
             <br />
  <div style="display:flex;">
  <img src="https://komarev.com/ghpvc/?username=mart-anthony-stark" />
