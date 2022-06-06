@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="gh-banner2.png" width="90%" align="center" />
+<img src="gh-banner3.png" width="100%" align="center" />
 <h2>Contact: :phone:</h2>
 
 <a href="mailto: martsalazar0@gmail.com">
@@ -52,3 +52,4 @@
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mart-anthony-stark&theme=dark" />
  </div>
+ <img src="Footer.png" width="100%" align="center" />
