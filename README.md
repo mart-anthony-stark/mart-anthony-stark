@@ -41,10 +41,7 @@
 </div>
  
  <br><br>
- <p align="center">
- 
- <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical"/>
- 
+ <p align="center"> 
 <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=mart-anthony-stark&?count_private=true&show_icons=true&theme=tokyonight" />
  <br/><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mart-anthony-stark&theme=tokyonight&layout=compact" width="400px" />
