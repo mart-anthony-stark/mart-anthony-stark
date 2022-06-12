@@ -19,9 +19,9 @@
 <div align='center'>
  <br><br>
 <h3>My Current Skillset</h3> 
- <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nuxt,next,java,spring,mongo,mysql,python,flask,git,figma&theme=dark&perline=8" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nuxt,next,nest,java,spring,mongo,mysql,python,flask,git&theme=dark&perline=8" />
  <br>
- <img src="https://skillicons.dev/icons?i=tailwind,redux,cpp&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=figma,tailwind,redux,cpp&theme=dark" />
  
  <br>
  
