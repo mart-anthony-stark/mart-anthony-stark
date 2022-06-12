@@ -1,8 +1,13 @@
 
 <p align="center">
 <img src="gh-banner3.png" width="100%" align="center" />
-<a href="mailto: martsalazar0@gmail.com">
-<img src="https://img.shields.io/badge/-martsalazar0%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href=""><img src="https://img.shields.io/badge/mart_anthony_salazar-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<br/><br/>
+<a href="https://www.linkedin.com/in/mart-salazar" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" ></a>
+<a href="https://twitter.com/anthony_stark21" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter&theme=dark" ></a>
+ <a href="https://www.instagram.com/hypermaaart/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram&theme=dark" ></a>
  </p>
  <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?color=2C658F&lines=I'm+Mart+Anthony+Salazar;A+Web+Developer;An+Open+Source+Contributor;A+Learner" />
