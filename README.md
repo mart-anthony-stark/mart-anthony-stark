@@ -39,6 +39,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mart-anthony-stark&theme=tokyonight&layout=compact" width="400px" />
 </p>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mart-anthony-stark&theme=dark" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mart-anthony-stark&theme=dark" /> -->
  </div>
  <img src="Footer.png" width="100%" align="center" />
