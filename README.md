@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="gh-banner3.png" width="100%" align="center" />
+<img src="gh-banner4.png" alt="Mart Anthony Salazar" width="100%" align="center" />
 <br/><br/>
 <a href="https://www.linkedin.com/in/mart-salazar" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" ></a>
