@@ -9,8 +9,8 @@
  <a href="https://www.instagram.com/hypermaaart/" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram&theme=dark" ></a>
  </p>
- <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?color=2C658F&lines=I'm+Mart+Anthony+Salazar;A+Web+Developer;An+Open+Source+Contributor;A+Proactive+Learner" />
+ <div align="center">
             <p > I am highly passionate about learning different programming languages, technologies, and skills that I can use for my future work and projects. I have an experience in freelancing particularly in web development and data science and still learning things to grow in the tech industry.</p>
             <br />
  <div style="display:flex;">
