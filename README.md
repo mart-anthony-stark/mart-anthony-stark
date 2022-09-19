@@ -36,7 +36,7 @@
  <p align="center"> 
 <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=mart-anthony-stark&?count_private=true&show_icons=true&theme=tokyonight" />
  <br/><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mart-anthony-stark&hide=html,css2B&langs_count=15&layout=compact&theme=tokyonight" width="400px" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mart-anthony-stark&hide=html,css,scss&langs_count=15&layout=compact&theme=tokyonight" width="400px" />
 </p>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mart-anthony-stark&theme=dark" />
