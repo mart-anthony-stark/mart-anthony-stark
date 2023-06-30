@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="gh-banner3.png" alt="Mart Anthony Salazar" width="100%" align="center" />
+<img src="gh-header5.png" alt="Mart Anthony Salazar" width="100%" align="center" />
 <br/><br/>
 <a href="https://www.linkedin.com/in/mart-salazar" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" ></a>
@@ -43,4 +43,4 @@
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mart-anthony-stark&theme=dark" />
  </div>
- <img src="Footer.png" width="100%" align="center" />
+ <img src="gh-footer.png" width="100%" align="center" />
