@@ -22,7 +22,7 @@
  </div>
  
 <div align='center'>
- <br><br>
+ <br/>
 <h3>My Current Skillset</h3> 
  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nuxt,next,nest,java,spring,mongo,mysql,python,flask,git&theme=dark&perline=8" />
  <br>
@@ -33,14 +33,14 @@
 </div>
  
  <br><br>
- <p align="center"> 
+ <p align="center" style="display:flex;align-items:center;gap:20px;flex-wrap:wrap;margin-bottom:20px;"> 
 <!-- <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=mart-anthony-stark&?count_private=true&show_icons=true&theme=tokyonight" /> -->
-
- <br/><br/>
- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mart-anthony-stark&theme=monokai" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mart-anthony-stark&hide=html,css,scss&langs_count=15&layout=compact&theme=tokyonight" width="400px" />
+ <br/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mart-anthony-stark&theme=monokai" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=mart-anthony-stark&theme=dark" />
 </p>
+
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mart-anthony-stark&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mart-anthony-stark&hide=html,css,scss&langs_count=15&layout=compact&theme=tokyonight" width="400px" />
  </div>
- <img src="gh-footer.png" width="100%" align="center" />
+ <img style='margin-top: 50px;' src="gh-footer.png" width="100%" align="center" />
