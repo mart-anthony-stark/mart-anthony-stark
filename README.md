@@ -33,14 +33,17 @@
 </div>
  
  <br><br>
- <p align="center" style="display:flex;align-items:center;gap:20px;flex-wrap:wrap;margin-bottom:20px;"> 
+ <p align="center" style="display:flex;align-items:center;justify-content:center;gap:20px !important;flex-wrap:wrap;margin-bottom:20px !important;"> 
 <!-- <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=mart-anthony-stark&?count_private=true&show_icons=true&theme=tokyonight" /> -->
  <br/>
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mart-anthony-stark&theme=monokai" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mart-anthony-stark&theme=dark" />
 </p>
 
+<br><br>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mart-anthony-stark&hide=html,css,scss&langs_count=15&layout=compact&theme=tokyonight" width="400px" />
  </div>
+
+ <br><br>
  <img style='margin-top: 50px;' src="gh-footer.png" width="100%" align="center" />
